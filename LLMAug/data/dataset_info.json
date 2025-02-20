@@ -1,0 +1,17 @@
+{
+  "business": {
+    "file_name": "business_feature_train.json"
+  },
+  "clothing": {
+    "file_name": "clothing_feature_train.json"
+  },
+  "office": {
+    "file_name": "office_feature_train.json"
+  },
+  "sport": {
+    "file_name": "sport_feature_train.json"
+  },
+  "computer": {
+    "file_name": "computer_feature_train.json"
+  }
+}
